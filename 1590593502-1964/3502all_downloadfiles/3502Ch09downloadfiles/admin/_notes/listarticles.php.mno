@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstArticles" value="name:art_ID;datatype:int,name:title;datatype:string,name:pub_date;datatype:date,name:kill_article;datatype:string,name:picture;datatype:string,name:firstname;datatype:string,name:familyname;datatype:string" />
+</info>

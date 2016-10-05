@@ -1,0 +1,110 @@
+body {
+  margin: 180px 10% 20px 230px;
+  padding: 0;
+  background: #FFFFFF url(../images/topbg.jpg) repeat-x;
+  color: #000;
+  font-family: Geneva, Arial, Helvetica, sans-serif;}
+a:link, a:visited, a:hover, a:active {
+  font-weight: bold;
+  text-decoration: none;}
+h1, h2, h3 {
+  color: #39610C;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;}
+h1 {
+  margin: 0;
+  font-size: 160%;}
+h2 {
+  margin: 0;
+  font-size: 125%;}
+h3 {
+  margin: 0 0 10px 20px;
+  font-size: 100%;}
+th {
+  text-align: left;
+}
+
+/* Styles for maincontent div */
+#maincontent a:link {
+  color: #008801;
+  background: transparent;}
+#maincontent a:visited, #maincontent a:active {
+  color: #B8D56E;
+  background: transparent;}
+#maincontent a:hover {
+  background-color: #008801;
+  color: #FFF;}
+#maincontent p {
+  background: transparent;
+  line-height: 1.4;}
+
+/*Styles for form input elements */
+textarea {
+  width: 350px;
+  height: 150px;}
+.mediumbox {
+  width: 200px;}
+
+/* Styles for main navigation bar */
+#mainnav {
+  width: 155px;
+  font-weight: bold;
+  left: 20px;
+  position: absolute;
+  top: 180px;}
+#mainnav a {
+  border-color: #FFF68B #888152 #888152 #FFF68B;
+  border-style: solid;
+  border-width: 1px;
+  padding: 0 12px;
+  width: 140px;
+  display: block;
+  background: #FFF4B2;
+  color: #797979;
+  line-height: 24px;}
+#mainnav a:hover {
+  border-color: #D2E4A2 #4D650F #4D650F #D2E4A2;
+  border-style: solid;
+  border-width: 1px;
+  background: #B8D56E;
+  color: #FFFFFF;}
+#mainnav li {
+  margin: 0 0 3px 0;}
+#mainnav li, #maincontent p, #maincontent li {
+  font-size: 85%;}
+#mainnav ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style-type: none;}
+
+/* Identifies current page through id in the <a> tag of main navigation bar */
+a#thispage {
+  border-color: #887F4F #FFF5BB #FFF5BB #887F4F !important;
+  background: #FFEF95 !important;
+  color: #999999 !important;}
+
+/* Styles for individual paragraphs or page elements */
+#artimage {
+  float: right;
+  margin-left: 10px;
+  font-weight: bold;
+  text-align: center;}
+.author, .ctte {
+  margin: 5px 0 0 25px;
+  font-weight: bold;}
+.error {
+  color: red;
+  font-variant: small-caps;
+  font-weight: bold;}
+#sorry {
+  width: 300px;
+  margin: 5px auto 5px 50px;
+  border: 2px solid #000;
+  background-color: #FC0;}
+#sorry p {
+  margin: 10px;}
+#topimage {
+  width: 400px;
+  height: 150px;
+  position: absolute;
+  top: 0;
+  left: 0;}

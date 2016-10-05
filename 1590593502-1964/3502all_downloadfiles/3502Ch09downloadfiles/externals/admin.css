@@ -1,0 +1,17 @@
+/*General styles*/
+body {font-family: Verdana, Arial, Helvetica, sans-serif;}
+h1 {font-size: 125%;  color:#090;}
+h2 {font-size: 110%;  color:#090;}
+form {margin-left: 50px;}
+p, td {font-size: 85%;}
+
+/*Styles for text fields and text areas*/
+.mediumbox {width: 200px;}
+.widebox {width: 350px;}
+textarea {width:350px; height:150px;}
+
+/*Set width for left-hand cells on categories.php*/
+.radbut {width: 30px;}
+
+/*Style for error messages*/
+.warning {font-weight: bold; color: #F00;}

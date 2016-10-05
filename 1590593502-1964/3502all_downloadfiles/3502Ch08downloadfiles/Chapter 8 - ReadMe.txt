@@ -1,0 +1,3 @@
+This folder contains the main examples from Chapter 8 "Debugging and Error Handling", together with an .mxp file to install two code snippets (the ShowVal debugging function and the SuperGlobals array). Use the Macromedia Extension Manager to install the snippets. Instructions for how to use them are given in the chapter.
+
+The code in the example files has been commented to indicate the point being demonstrated.

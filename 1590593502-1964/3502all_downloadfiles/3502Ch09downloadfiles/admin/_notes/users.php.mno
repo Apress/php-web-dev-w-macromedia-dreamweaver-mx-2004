@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstUname" value="name:admin_ID;datatype:int" />
+	<infoitem key="UD_rstAdmin" value="name:admin_ID;datatype:int,name:realname;datatype:string,name:username;datatype:string,name:pwd;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstCtteList" value="name:ctte_ID;datatype:int,name:position;datatype:string" />
+	<infoitem key="UD_rstCatList" value="name:cat_ID;datatype:int,name:cat_type;datatype:string" />
+</info>

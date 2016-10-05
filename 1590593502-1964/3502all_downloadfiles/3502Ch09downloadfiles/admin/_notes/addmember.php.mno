@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstMemCat" value="name:cat_ID;datatype:int,name:cat_type;datatype:string" />
+	<infoitem key="UD_rstCtte" value="name:ctte_ID;datatype:int,name:position;datatype:string,name:display;datatype:int" />
+</info>

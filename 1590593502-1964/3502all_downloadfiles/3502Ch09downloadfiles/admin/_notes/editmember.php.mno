@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstMemCat" value="name:cat_ID;datatype:int,name:cat_type;datatype:string" />
+	<infoitem key="UD_rstCtte" value="name:ctte_ID;datatype:int,name:position;datatype:string,name:display;datatype:int" />
+	<infoitem key="UD_rstGetDets" value="name:mem_ID;datatype:int,name:firstname;datatype:string,name:familyname;datatype:string,name:address1;datatype:string,name:address2;datatype:string,name:city;datatype:string,name:postcode;datatype:string,name:phone;datatype:string,name:email;datatype:string,name:photo;datatype:string,name:datejoined;datatype:date,name:category;datatype:int,name:committee;datatype:int,name:profile;datatype:blob,name:active;datatype:string" />
+</info>
